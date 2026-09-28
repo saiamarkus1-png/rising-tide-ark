@@ -1,0 +1,1 @@
+Unzip rising-tide-ark.zip. It contains a folder called rising-tide-ark; move everything inside that folder (src, default.project.json, README.md, .gitignore) to the root of the repo, then delete the zip and the empty folder. Commit with the message "Unpack game files".
